@@ -1,4 +1,4 @@
-# OpenStack MCP Server
+# OpenStack MCP Server – AI Assistant for Infrastructure Management
 
 MCP server for OpenStack infrastructure management. Connects to OpenStack APIs and exposes 17 tools for managing compute, storage, and networking resources.
 
