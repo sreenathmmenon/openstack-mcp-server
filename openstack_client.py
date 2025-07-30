@@ -4,6 +4,8 @@ OpenStack Client
 Python client for OpenStack API operations (Nova, Cinder, Neutron, Keystone).
 Supports authentication, resource management, and comprehensive reporting.
 
+Demo: https://www.youtube.com/watch?v=lWSXS_vVMEE
+
 Author: Sreenath
 Email: zreenathmenon@gmail.com
 Repository: https://github.com/sreenathmmenon/openstack-mcp-server
