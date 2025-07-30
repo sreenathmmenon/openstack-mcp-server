@@ -1,0 +1,8 @@
+{
+    "AUTH_URL": "https://your-openstack-endpoint:5000/v3",
+    "USERNAME": "your-username",
+    "PASSWORD": "your-password",
+    "PROJECT": "your-project",
+    "DOMAIN": "Default",
+    "REGION": "RegionOne"
+}

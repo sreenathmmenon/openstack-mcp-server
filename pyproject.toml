@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openstack-mcp-server"
+version = "1.0.0"
+description = "OpenStack MCP Server for infrastructure management"
+authors = [{name = "Sreenath", email = "zreenathmenon@gmail.com"}]
+dependencies = [
+    "mcp",
+    "requests",
+    "urllib3",
+]
+
+[project.scripts]
+openstack-mcp-server = "openstack_mcp_server:main"
